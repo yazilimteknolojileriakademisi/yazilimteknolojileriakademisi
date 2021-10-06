@@ -41,10 +41,6 @@ Project #12: Military Aircraft (Satellite Imagery) Classification using Deep Lea
 
 Each project will be implemented by Python using Jupyter Notebook. Python source code of each project is included in relevant Udemy course section. You can download source codes for all projects..
 
-Machine learning is the study of computer algorithms that improve automatically through experience and by the use of data. It is seen as a part of artificial intelligence. Machine learning algorithms build a model based on sample data, known as "training data", in order to make predictions or decisions without being explicitly programmed to do so. Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, computer vision and defence industry where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.
-
-Deep learning is a class of machine learning algorithms that uses multiple layers to progressively extract higher-level features from the raw input. For example, in image processing, lower layers may identify edges, while higher layers may identify the concepts relevant to a human such as digits or letters or faces. Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Deep learning is an artificial intelligence function that aims to imitate the human brain’s ability to process data and recognise patterns for learning and making decisions. 
-
 Discount Coupon Code: AICOURSEDISCOUNT3
 
 https://www.udemy.com/course/deep-learning-with-python-course/?referralCode=7DF7807654951AAA6F60
