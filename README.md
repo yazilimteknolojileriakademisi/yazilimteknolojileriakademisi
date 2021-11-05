@@ -41,5 +41,5 @@ Project #12: Military Aircraft (Satellite Imagery) Classification using Deep Lea
 
 Each project will be implemented by Python using Jupyter Notebook. Python source code of each project is included in relevant Udemy course section. You can download source codes for all projects..
 
-Discount Coupon Code: AICOURSEDISCOUNT3
-https://www.udemy.com/course/deep-learning-with-python-course/?referralCode=7DF7807654951AAA6F60
+Discount Coupon Code: AIPROJECTS
+https://www.udemy.com/course/deep-learning-with-python-course/?couponCode=AIPROJECTS
